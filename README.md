@@ -2,7 +2,7 @@
 
 I build at the intersection of **open-source software, local-first AI, creative tools, and community infrastructure**.
 
-My work moves between code, product design, self-hosted systems, and digital fabrication. I am especially interested in how AI agents can help people turn intentions into durable, inspectable workflows—without taking judgment or ownership away from the people using them.
+My work moves between code, product design, self-hosted systems, digital fabrication, and robotics. I am especially interested in how AI agents can help people turn intentions into durable, inspectable workflows—without taking judgment or ownership away from the people using them.
 
 ## What I care about
 
@@ -35,6 +35,7 @@ I prefer small, falsifiable changes: reproduce the problem, add the cheapest mea
 - Open-source maintenance, review, and contribution automation
 - Knowledge graphs, ontologies, and personal knowledge infrastructure
 - Creative coding, 3D tools, digital fabrication, and small-scale production
+- Robotics, open hardware, and embodied intelligence
 - Self-hosted community platforms and durable digital archives
 - Digital humanities, technology ethics, and public-interest software
 

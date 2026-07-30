@@ -19,7 +19,6 @@ _Last verified from public GitHub activity: 30 July 2026._
 | --- | ---: |
 | Authored pull requests | 16 |
 | PR outcomes | 5 merged · 5 open · 6 closed without merge |
-| 2026 public contribution graph | 32 contributions |
 
 <!-- profile:auto:end -->
 

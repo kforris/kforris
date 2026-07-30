@@ -4,6 +4,25 @@ I build at the intersection of **open-source software, local-first AI, creative 
 
 My work moves between code, product design, self-hosted systems, digital fabrication, and robotics. I am especially interested in how AI agents can help people turn intentions into durable, inspectable workflows—without taking judgment or ownership away from the people using them.
 
+<!-- profile:auto:start -->
+## Current work
+
+_Last verified from public GitHub activity: 30 July 2026._
+
+- **[OpenPrintBench](https://github.com/kforris/OpenPrintBench)** — building a local-first, evidence-oriented slicer regression toolkit; the first isolated Bambu Studio runner is in review with green Python 3.11–3.13 CI.
+- **[NotionNext](https://github.com/notionnext-org/NotionNext/pulls?q=is%3Apr+author%3Akforris)** — three upstream fixes merged in July 2026, with one additional routing fix in review.
+- **[Open Design](https://github.com/nexu-io/open-design/pulls?q=is%3Apr+author%3Akforris)** — three focused fixes are open; their remaining gates are maintainer review, self-hosted CI, and manual QA rather than known local test failures.
+
+### Public contribution snapshot
+
+| Signal | Verified total |
+| --- | ---: |
+| Authored pull requests | 16 |
+| PR outcomes | 5 merged · 5 open · 6 closed without merge |
+| 2026 public contribution graph | 32 contributions |
+
+<!-- profile:auto:end -->
+
 ## What I care about
 
 I believe technology should expand human agency, not reduce people to data points or replace their right to decide.
@@ -22,6 +41,8 @@ Open source is how many of these values become practical. It is not only a licen
 
 | Project | My role | What I work on |
 | --- | --- | --- |
+| [OpenPrintBench](https://github.com/kforris/OpenPrintBench) | Creator and primary maintainer | Local-first slicer regression plans, isolated execution, and evidence that keeps planned, digitally validated, and physically validated states distinct |
+| [Boron Context](https://github.com/kforris/boron-context) | Creator and maintainer | An open-source intention and context layer for inspectable agentic work |
 | [Shredhub community site](https://github.com/Shredxhub/NotionNext.shpages) | Maintainer | The public community website, deployment layer, and downstream integration with NotionNext |
 | [Open Design](https://github.com/nexu-io/open-design/pulls?q=is%3Apr+author%3Akforris) | Contributor | Focused bug fixes, regression tests, runtime UI validation, and cross-platform reliability |
 | [NotionNext](https://github.com/notionnext-org/NotionNext/pulls?q=is%3Apr+author%3Akforris) | Contributor and downstream maintainer | User-facing fixes informed by operating a real downstream community site |

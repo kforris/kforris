@@ -7,18 +7,20 @@ My work moves between code, product design, self-hosted systems, digital fabrica
 <!-- profile:auto:start -->
 ## Current work
 
-_Last verified from public GitHub activity: 30 July 2026._
+_Last verified from public GitHub activity: 3 August 2026._
 
 - **[OpenPrintBench](https://github.com/kforris/OpenPrintBench)** — building a local-first, evidence-oriented slicer regression toolkit; the first isolated Bambu Studio runner is in review with green Python 3.11–3.13 CI.
-- **[NotionNext](https://github.com/notionnext-org/NotionNext/pulls?q=is%3Apr+author%3Akforris)** — three upstream fixes merged in July 2026, with one additional routing fix in review.
+- **[Boron Context](https://github.com/kforris/boron-context)** — shipped a human-reviewable Inspector through a merged, CI-green contribution.
+- **[NotionNext](https://github.com/notionnext-org/NotionNext/pulls?q=is%3Apr+author%3Akforris)** — four upstream fixes merged in July 2026.
 - **[Open Design](https://github.com/nexu-io/open-design/pulls?q=is%3Apr+author%3Akforris)** — three focused fixes are open; their remaining gates are maintainer review, self-hosted CI, and manual QA rather than known local test failures.
+- **[build123d](https://github.com/gumyr/build123d/pull/1389)** — a focused STL export validation fix is open after maintainer-requested follow-up, awaiting fork-CI approval and re-review.
 
 ### Public contribution snapshot
 
 | Signal | Verified total |
 | --- | ---: |
-| Authored pull requests | 16 |
-| PR outcomes | 5 merged · 5 open · 6 closed without merge |
+| Authored pull requests | 19 |
+| PR outcomes | 7 merged · 5 open · 7 closed without merge |
 
 <!-- profile:auto:end -->
 

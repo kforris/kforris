@@ -7,20 +7,20 @@ My work moves between code, product design, self-hosted systems, digital fabrica
 <!-- profile:auto:start -->
 ## Current work
 
-_Last verified from public GitHub activity: 3 August 2026._
+_Last verified from public GitHub activity: 7 August 2026._
 
-- **[OpenPrintBench](https://github.com/kforris/OpenPrintBench)** — building a local-first, evidence-oriented slicer regression toolkit; the first isolated Bambu Studio runner is in review with green Python 3.11–3.13 CI.
-- **[Boron Context](https://github.com/kforris/boron-context)** — shipped a human-reviewable Inspector through a merged, CI-green contribution.
-- **[NotionNext](https://github.com/notionnext-org/NotionNext/pulls?q=is%3Apr+author%3Akforris)** — four upstream fixes merged in July 2026.
+- **[OpenPrintBench](https://github.com/kforris/OpenPrintBench)** — building a local-first, evidence-oriented slicer regression toolkit; the first isolated Bambu Studio runner remains in review with green Python 3.11–3.13 CI.
+- **[Boron Context](https://github.com/kforris/boron-context)** — maintaining the project through v0.7.1, with eight merged pull requests covering inspectable context, continuity, and reliability.
+- **[NotionNext](https://github.com/notionnext-org/NotionNext/pulls?q=is%3Apr+author%3Akforris)** — five upstream fixes are merged and one focused follow-up remains open.
 - **[Open Design](https://github.com/nexu-io/open-design/pulls?q=is%3Apr+author%3Akforris)** — three focused fixes are open; their remaining gates are maintainer review, self-hosted CI, and manual QA rather than known local test failures.
-- **[build123d](https://github.com/gumyr/build123d/pull/1389)** — a focused STL export validation fix is open after maintainer-requested follow-up, awaiting fork-CI approval and re-review.
+- **[build123d](https://github.com/gumyr/build123d/pulls?q=is%3Apr+author%3Akforris)** — three focused contributions are merged and three follow-ups are open; the latest Plane warning fix is CI-green.
 
 ### Public contribution snapshot
 
 | Signal | Verified total |
 | --- | ---: |
-| Authored pull requests | 19 |
-| PR outcomes | 7 merged · 5 open · 7 closed without merge |
+| Authored pull requests | 33 |
+| PR outcomes | 18 merged · 8 open · 7 closed without merge |
 
 <!-- profile:auto:end -->
 
@@ -45,9 +45,9 @@ Open source is how many of these values become practical. It is not only a licen
 | [OpenPrintBench](https://github.com/kforris/OpenPrintBench) | Creator and primary maintainer | Local-first slicer regression plans, isolated execution, and evidence that keeps planned, digitally validated, and physically validated states distinct |
 | [Boron Context](https://github.com/kforris/boron-context) | Creator and maintainer | An open-source intention and context layer for inspectable agentic work |
 | [Shredhub community site](https://github.com/Shredxhub/NotionNext.shpages) | Maintainer | The public community website, deployment layer, and downstream integration with NotionNext |
+| [build123d](https://github.com/gumyr/build123d/pulls?q=is%3Apr+author%3Akforris) | Contributor | CAD API behavior, export validation, documentation, dependency maintenance, and cross-platform regression tests |
 | [Open Design](https://github.com/nexu-io/open-design/pulls?q=is%3Apr+author%3Akforris) | Contributor | Focused bug fixes, regression tests, runtime UI validation, and cross-platform reliability |
 | [NotionNext](https://github.com/notionnext-org/NotionNext/pulls?q=is%3Apr+author%3Akforris) | Contributor and downstream maintainer | User-facing fixes informed by operating a real downstream community site |
-| [Peage Ontology Skill](https://github.com/kforris/Peage-Ontology-Skill) | Author | An experiment in connecting Codex workflows to local ontology and context infrastructure |
 
 I prefer small, falsifiable changes: reproduce the problem, add the cheapest meaningful regression test, make the narrowest maintainable fix, and verify the real user-facing surface—not only the test runner.
 
